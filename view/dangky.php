@@ -1,7 +1,7 @@
 <section>
   <div id="login">
     <h3 class="login-title">Đăng Ký Hệ Thống</h3>
-    <p>Bạn đã có tài khoản? <a href="index.php?pg=dangnhap" style="color:blue">Đăng Nhập</a></p>
+    <p>Bạn đã có tài khoản chưa? <a href="index.php?pg=dangnhap" style="color:blue">Đăng Nhập</a></p>
     <form action="index.php?pg=dangky" method="POST" id="form-login">
       <!-- Các trường nhập liệu cho đăng ký -->
       <div class="form-group-login">
