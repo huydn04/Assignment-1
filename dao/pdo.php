@@ -5,7 +5,7 @@
  * @return PDO đối tượng PDO cho kết nối CSDL
  */
 function pdo_get_connection(){
-    $dburl = "mysql:host=localhost;dbname=highwaystore1;charset=utf8";
+    $dburl = "mysql:host=localhost;dbname=assignment1;charset=utf8";
     $username = 'root';
     $password = '';
 
