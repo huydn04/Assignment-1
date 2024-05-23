@@ -13,7 +13,7 @@ $html_dssp_current_category = showsp($dssp);
         <div class="cat_menu_container">
             <div class="cat_menu_title d-flex flex-row align-items-center justify-content-start">
                 <div class="cat_burger"><span></span><span></span><span></span></div>
-                <div class="cat_menu_text">DANH MỤC SẢN PHẨM</div>
+                <div class="cat_menu_text">Danh mục sản phẩm</div>
             </div>
             <ul class="cat_menu">
                 <?php
